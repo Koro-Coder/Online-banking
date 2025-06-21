@@ -22,7 +22,7 @@ function AccountForm({
   const [amount, setAmount] = useState("");
   const [targetAccount, setTargetAccount] = useState("");
   const [accountInfo, setAccountInfo] = useState({
-    transactionType: "", // Transaction Type seçim kutusu
+    transactionType: "", 
     
   });
   const [paymentInfo, setPaymentInfo] = useState({

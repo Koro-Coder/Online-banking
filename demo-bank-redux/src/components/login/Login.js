@@ -69,7 +69,6 @@ export default function SignInSide() {
 
       console.log("Kullanıcı başarıyla giris yapti:", response.data);
     } catch (error) {
-      // İstek başarısız olduğunda hata işlemlerini burada yapabilirsiniz
       alertify.error("Login failed.")
       console.error("Kullanıcı giris yaparken bir hata olustu.", error);
     }
