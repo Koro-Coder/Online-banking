@@ -3,7 +3,7 @@ Users can register, log in, view their account history, open new accounts, make 
 
 ## Project Images and Components
 
-!(loginPage.png)
+![Uygulama Ekran Görüntüsü](loginPage.png)
 
 ![Uygulama Ekran Görüntüsü](ProjecPage1.png)
 
