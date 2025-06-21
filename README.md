@@ -10,5 +10,3 @@ Users can register, log in, view their account history, open new accounts, make 
 ![Uygulama Ekran Görüntüsü](ProjectPage2.png)
 
 ![Uygulama Ekran Görüntüsü](ProjectPage3.png)
-
-![Uygulama Ekran Görüntüsü](ProjectPage5.png)
